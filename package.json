@@ -1,0 +1,39 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@badrap/bar-of-progress": "^0.1.2",
+    "@heroicons/react": "^1.0.4",
+    "date-fns": "^2.25.0",
+    "geolib": "^3.3.1",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^17.0.2",
+    "react-map-gl": "^6.1.17",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  },
+  "name": "airbnb",
+  "description": "This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eulazzo/airbnb.git"
+  },
+  "author": "eulazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eulazzo/airbnb/issues"
+  },
+  "homepage": "https://github.com/eulazzo/airbnb#readme"
+}
